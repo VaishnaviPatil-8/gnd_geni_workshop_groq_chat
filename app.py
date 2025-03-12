@@ -17,7 +17,7 @@ def icon(emoji: str):
 
 #icon("🏎️")
 
-st.subheader(" Vaishnavi Streamlit App", divider="rainbow", anchor=False)
+st.subheader(" Vaishnavi Groq chat Streamlit App", divider="rainbow", anchor=False)
 
 #GROQ_API_KEY = "your_groq_api_key_here"
 
